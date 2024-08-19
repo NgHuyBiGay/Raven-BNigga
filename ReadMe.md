@@ -21,6 +21,7 @@ Open The Project In Intellij (Not Eclipse)
 _[A] Make an Issue on this github repo and provide a screenshot of the error._
 
 [Q] omG iS tHiS clIEnT a rAT?!?!?!111!!?!??!!
+ skibidi toilet
 
 _[A] No I Would Never Do Such A Thing As Putting Rats In Minecraft utility mods (real btw not joking 100%)_
 
