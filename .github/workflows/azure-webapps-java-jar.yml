@@ -47,7 +47,7 @@ jobs:
           cache: 'maven'
 
       - name: Build with Gradle
-        run: ./gradlew setupCiWorkspace clean build
+        run: gradlew setupCiWorkspace clean build
 
       - name: Upload artifact for deployment job
         uses: actions/upload-artifact@v3
