@@ -28,7 +28,7 @@ jobs:
           arguments: build --no-build-cache
           gradle-version: wrapper
       - name: Upload Artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         with:
           name: Raven-B+++
           path: build/libs/RavenB+++-1.12.2.jar
